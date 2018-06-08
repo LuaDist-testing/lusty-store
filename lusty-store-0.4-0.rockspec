@@ -1,9 +1,17 @@
+-- This file was automatically generated for the LuaDist project.
+
 package = "lusty-store"
-version = "0.3-0"
+version = "0.4-0"
+-- LuaDist source
 source = {
-  url = "https://github.com/Olivine-Labs/lusty-store/archive/v0.3.tar.gz",
-  dir = "lusty-store-0.3"
+  tag = "0.4-0",
+  url = "git://github.com/LuaDist-testing/lusty-store.git"
 }
+-- Original source
+-- source = {
+--   url = "https://github.com/Olivine-Labs/lusty-store/archive/v0.4.tar.gz",
+--   dir = "lusty-store-0.4"
+-- }
 description = {
   summary = "Persistence interface for lusty.",
   detailed = [[

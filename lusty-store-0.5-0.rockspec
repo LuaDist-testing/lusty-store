@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "lusty-store"
-version = "0.4-0"
+version = "0.5-0"
 -- LuaDist source
 source = {
-  tag = "0.4-0",
+  tag = "0.5-0",
   url = "git://github.com/LuaDist-testing/lusty-store.git"
 }
 -- Original source
 -- source = {
---   url = "https://github.com/Olivine-Labs/lusty-store/archive/v0.4.tar.gz",
---   dir = "lusty-store-0.4"
+--   url = "https://github.com/Olivine-Labs/lusty-store/archive/v0.5.tar.gz",
+--   dir = "lusty-store-0.5"
 -- }
 description = {
   summary = "Persistence interface for lusty.",
